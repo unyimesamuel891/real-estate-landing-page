@@ -10,7 +10,7 @@ A modern, responsive real estate landing page built with [HTML/CSS/JS or React â
 ![Screenshot 1](./screenshot1.png)
 ![Screenshot 2](./screenshot2.png)
 ![Screenshot 3](./screenshot3.png)
-## ðŸ› Built With
+## Built With
 - HTML5 & CSS3
 - JavaScript
 - [Any frameworks you used]
