@@ -2,15 +2,15 @@
 
 A modern, responsive real estate landing page built with [HTML/CSS/JS or React — update this].
 
-## 🔗 Live Demo
+##  Live Demo
 [View Live Site]https://real-estate-landing-page-ivory.vercel.app/
 
-## 📸 Preview
+##  Preview
 ![screenshot](./screenshot.png)
 ![Screenshot 1](./screenshot1.png)
 ![Screenshot 2](./screenshot2.png)
 ![Screenshot 3](./screenshot3.png)
-## 🛠 Built With
+## 🛠Built With
 - HTML5 & CSS3
 - JavaScript
 - [Any frameworks you used]
